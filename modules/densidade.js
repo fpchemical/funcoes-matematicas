@@ -3,6 +3,7 @@ var densidade = function (m,v) {
 }
 console.log('densidade', densidade(2,5))
 
+
 Refatorando
 
-const densidade = (m, v) => m / v
+const densidade = (mass, volume) => mass / volume
